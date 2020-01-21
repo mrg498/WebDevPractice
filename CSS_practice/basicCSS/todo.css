@@ -1,0 +1,13 @@
+body{
+    background-color: fuchsia;
+}
+/* id selector */
+#special{
+    color: greenyellow;
+    background-color: blue;
+}
+
+/* class selector */
+.notSpecial{
+    border: chocolate 5px solid;
+}

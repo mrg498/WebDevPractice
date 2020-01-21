@@ -1,0 +1,23 @@
+body{
+    background: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Border: width, color, style */
+
+h1{
+    color:rgb(158, 56, 56);
+    /*border-color: lawngreen;
+    border-width: 5px;
+    border-style: double;*/
+
+    border: firebrick 5px solid;
+}
+h4{
+    color: hotpink;
+    /*background-color: rgb(14, 194, 218);*/
+}
+li{
+    color:rgba(45, 45, 187, 0.582);
+}
