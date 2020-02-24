@@ -1,0 +1,6 @@
+p {
+    /* Content, Border, Padding, Margin*/
+    border: 2px solid blue;
+    width: 50%;
+    height: 100px;
+}

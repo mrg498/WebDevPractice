@@ -1,0 +1,44 @@
+body {
+    font-size: 10px;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+span {
+    font-size: 1.1em;
+}
+
+p {
+    font-size: 3.0em;
+}
+
+p:nth-of-type(1) {
+    font-weight: 800;
+}
+
+p {
+    line-height: 2;
+}
+
+h1{
+    text-align: right;
+}
+
+p{
+    text-align: center;
+}
+
+p {
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Sigmar One', cursive;
+}
