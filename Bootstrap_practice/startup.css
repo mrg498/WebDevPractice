@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://source.unsplash.com/AL2-t0GrSko);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    color: rgb(202, 189, 117);
+}
+
+html{
+    height: 100%;
+}
+
+.navbar-brand{
+    margin-right: 30px;
+}
+
+.middleItems{
+    margin-left: 40px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    
+}
+
+#content{
+    text-align: center;
+    margin-top: 29%;
+    text-shadow: 0px 2px 3px black;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 5em;
+    text-shadow: 0px 4px 3px red, 4px 8px 13px black;
+}
+
+h3{
+    font-weight: 600;
+}
+
+hr{
+    width: 500px;
+    border-top: 2px solid #f8f8f8;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+.button{
+  
+  
+  width: 200px;
+  height: 36px;
+  border-radius: 18px;
+  background-color: #dbe1e7;
+  border: solid 1px transparent;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-weight: 300;
+  cursor: pointer;
+  box-shadow: 0px 2px 2px rgb(0, 0, 0);;
+}
+
